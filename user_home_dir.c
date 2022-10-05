@@ -4,7 +4,7 @@
 #include <string.h>
 #include <unistd.h>
 #include <pwd.h>
-//author:Ethan
+
 
 int main(int argc, char *argv[  ]) {
     uid_t         uid;
